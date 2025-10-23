@@ -21,6 +21,7 @@ This project analyzes Walmart retail data using SQL to uncover key business insi
 
 ## Dataset
 - The dataset includes Walmart retail transaction data such as sales, product categories, store information, and transaction dates.
+- https://drive.google.com/file/d/1Gl1lvo6SPq78HX_IqNFnpjR1pad5fd37/view?usp=sharing
 
 ## How to Use
 1. Open `Walmart_Retail_Insights.sql` in your SQL editor (MySQL, PostgreSQL, or any other compatible SQL tool).
