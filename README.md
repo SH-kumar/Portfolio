@@ -33,7 +33,4 @@ This project analyzes Walmart retail data using SQL to uncover key business insi
 - Regional performance identifies high-growth areas.
 - Customer behavior analysis aids in targeted promotions.
 
-## Author
-**S Hemanth Kumar**  
-[GitHub Profile](https://github.com/yourusername)  
 
